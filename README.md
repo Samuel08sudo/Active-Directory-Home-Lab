@@ -32,7 +32,9 @@ skills development and portfolio demonstration.
 10. Loom video walkthrough
 
 ## Walkthrough video
-[Watch the 5-minute walkthrough](Videos/Walkthrough.mp4)
+[Watch the 3-minute walkthrough]
+https://github.com/user-attachments/assets/3c60adc3-ce80-4a2c-95c0-8658d79527b
+
 
 ## Screenshots
 ![VMs](screenshots/01-virtualbox-vms.png)
