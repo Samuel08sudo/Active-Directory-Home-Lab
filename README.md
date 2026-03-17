@@ -33,7 +33,11 @@ skills development and portfolio demonstration.
 
 ## Walkthrough video
 [Watch the 3-minute walkthrough]
-https://github.com/user-attachments/assets/3c60adc3-ce80-4a2c-95c0-8658d79527b
+
+
+https://github.com/user-attachments/assets/d914bb13-f3b8-45f1-a499-da2d5456ae1c
+
+
 
 
 ## Screenshots
