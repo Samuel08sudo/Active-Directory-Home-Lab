@@ -36,9 +36,16 @@ skills development and portfolio demonstration.
 
 ## Screenshots
 ![VMs](screenshots/01-virtualbox-vms.png)
+![server-static](screenshots/02-server-static-ip.png)
 ![AD Domain](screenshots/03-ad-domain.png)
+![ou-structure](screenshots/04-ou-structure.png)
 ![Users](screenshots/05-users-list.png)
+![security-groups](screenshots/06-security-group.png)
+![domain-join](screenshots/07-domain-join.png)
 ![Domain Login](screenshots/08-domain-login.png)
+![ping-test](screenshots/09-ping-test.png)
+![powershell-users](screenshots/10-powershell-users.png)
+![gpo](screenshots/11-gpo.png)
 
 ## Skills demonstrated
 - Windows Server 2022 administration
