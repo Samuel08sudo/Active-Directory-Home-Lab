@@ -32,7 +32,7 @@ skills development and portfolio demonstration.
 10. Loom video walkthrough
 
 ## Walkthrough video
-[Watch the 5-minute walkthrough on Loom](your-loom-link-here)
+[Watch the 5-minute walkthrough](Videos/Walkthrough.mp4)
 
 ## Screenshots
 ![VMs](screenshots/01-virtualbox-vms.png)
